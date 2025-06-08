@@ -14,12 +14,12 @@
 - Reached a **peak Codeforces rating of 1110**  
 - Strong foundation in **data structures, algorithms**, and problem-solving  
 
-🏅 **Academic Achievements**:  
-- Ranked in the **Top 2% of JEE Mains 2022**  
-- **Silver Medalist** in the **International Olympiad of Mathematics**  
+🏅 **Academic Achievements**:
+- Ranked in the **top 2% of JEE Mains 2022**
+- **Silver Medalist** in the **International Olympiad of Mathematics**
 - Recognized as a **top performer** in **National & Global Science Olympiads**
 
-  🌱 **Interests**:  
+🌱 **Interests**:  
 - AI product engineering  
 - Real-time web apps  
 - Human-centered design  
