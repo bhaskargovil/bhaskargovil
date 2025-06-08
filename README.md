@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Bhaskar Govil]
+# 👋 Hello, I'm Bhaskar Govil
 
 🚀 Passionate about building intelligent, scalable, and impactful tech products.
 
