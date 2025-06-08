@@ -1,7 +1,29 @@
-# 💫 About Me:
-Serving as Co-President of TEDxDTU, leading strategic initiatives and speaker curation.<br><br>Built and deployed a real-time microblogging platform using the MERN stack with 99.9% uptime and <200ms response time.<br>Developed ML/DL projects:<br>1. Sentiment analysis using Bi-LSTM (achieved 82% accuracy).<br>2. Image classification using CNNs on the CIFAR-10 dataset.<br><br>DSA & Competitive Programming:<br>1. Solved 500+ problems across [LeetCode](https://leetcode.com/u/bhaskargovil/) and [Codeforces](https://codeforces.com/profile/bhaskar.govil.14)
-.<br>2. Achieved a peak Codeforces rating of 1110.<br>3. Strong foundation in data structures and algorithms.<br><br>Academic Achievements:<br>1. Ranked in the top 2% in JEE Mains 2022.<br>2. Silver Medalist in the International Olympiad of Mathematics.<br>3. Top performer in National and Global Science Olympiads.<br><br>Interests:<br>Passionate about building scalable AI-driven products that solve real-world problems.
+# 👋 Hello, I'm [Bhaskar Govil]
 
+🚀 Passionate about building intelligent, scalable, and impactful tech products.
+
+💻 **Projects & Engineering**:  
+- Built and deployed a **real-time microblogging platform** using the **MERN stack**  
+  ➤ Achieved **99.9% uptime** and optimized backend response time to **under 200ms**  
+- Developed robust **machine learning & deep learning** solutions:  
+  • **Bi-LSTM-based Sentiment Analysis** model – achieved **82% accuracy**  
+  • **CNN-based Image Classification** on **CIFAR-10** dataset  
+
+👨‍💻 **DSA & Competitive Programming**:  
+- Solved **500+ problems** on platforms like [LeetCode](https://leetcode.com/u/bhaskargovil) and [Codeforces](https://codeforces.com/profile/bhaskar.govil.14)  
+- Reached a **peak Codeforces rating of 1110**  
+- Strong foundation in **data structures, algorithms**, and problem-solving  
+
+🏅 **Academic Achievements**:  
+- Ranked in the **Top 2% of JEE Mains 2022**  
+- **Silver Medalist** in the **International Olympiad of Mathematics**  
+- Recognized as a **top performer** in **National & Global Science Olympiads**
+
+  🌱 **Interests**:  
+- AI product engineering  
+- Real-time web apps  
+- Human-centered design  
+- Open source & dev community engagement  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskargovil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaskar.govil.14@gmail.com) 
