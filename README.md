@@ -10,7 +10,8 @@
   • **CNN-based Image Classification** on **CIFAR-10** dataset  
 
 👨‍💻 **DSA & Competitive Programming**:  
-- Solved **500+ problems** on platforms like [LeetCode](https://leetcode.com/u/bhaskargovil) and [Codeforces](https://codeforces.com/profile/bhaskar.govil.14)  
+- Solved **500+ problems** on platforms like [LeetCode](https://leetcode.com/u/bhaskargovil) and [Codeforces](https://codeforces.com/profile/bhaskar.govil.14)
+- 2 Star Coder on [CodeChef](https://www.codechef.com/users/bhaskargovil) with peak rating of 1495
 - Reached a **peak Codeforces rating of 1110**  
 - Strong foundation in **data structures, algorithms**, and problem-solving  
 
